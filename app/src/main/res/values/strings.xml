@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Badulake Map Creator</string>
+
+    <string name="badulake_creator">Badulake creator</string>
+    <string name="hint_badulake_name">Badulake\'s name</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="twentyfour">24h:</string>
+    <string name="save_actual_location">Save A.</string>
+    <string name="save_marker_location">Save M.</string>
+    <string name="reset">Reset</string>
+
+    <string name="failed">Failed</string>
+    <string name="saved">Saved!</string>
+</resources>
